@@ -7,8 +7,8 @@ sato   = Human.new("佐藤 花子", 20, "映画")
 
 # メソッドを実行
 tanaka.say
-tanaka.think(tanaka.hobby)
+tanaka.think(tanaka)
 suzuki.say
-suzuki.think(suzuki.hobby)
+suzuki.think(suzuki)
 sato.say
-sato.think(sato.hobby)
+sato.think(sato)
